@@ -1,5 +1,5 @@
 # SEO-HW-8122021
-[Link to Site]
+[Link to Site](///C:/Users/scott/Activities/Homework/SEO-HW-8122021/index.html)
 
 ## Description
 The focus of this assignment was to give context to a sites code by adding semantics in html, cleaning up css coding, and creating SEO for the site.
